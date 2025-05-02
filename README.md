@@ -24,7 +24,7 @@ A beginner-friendly, Flask-based web application that predicts the risk of heart
 ## 🚀 Live Demo
 
 Check out the deployed app on Render:  
-🔗 **[https://heartcure.onrender.com](https://heartcure.onrender.com)**  
+🔗 **[https://heartcure.onrender.com](https://heartcure.onrender.com)](https://heart-disease-prediction-4go2.onrender.com)**  
 > _Note: May take 15–30 seconds to wake up if inactive (Render free tier)_
 
 ---
