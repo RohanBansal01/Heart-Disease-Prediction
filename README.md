@@ -27,14 +27,7 @@ Check out the deployed app on Render:
 🔗 **https://heart-disease-prediction-4go2.onrender.com**  
 > _Note: May take 15–30 seconds to wake up if inactive (Render free tier)_
 
----
 
-## 📸 Screenshots
-
-> *(Optional: Add screenshots in `/docs` folder and embed them like below)*  
-<!-- ![App Screenshot](docs/screenshot1.png) -->
-
----
 
 ## 🛠️ Local Development Setup
 
