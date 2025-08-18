@@ -14,7 +14,7 @@ A beginner-friendly, Flask-based web application that predicts the risk of heart
 
 - ✅ User-friendly web interface  
 - ✅ Real-time heart disease risk prediction  
-- ✅ 85%+ model accuracy (tested on UCI Heart Disease dataset)  
+- ✅ 99%+ model accuracy (tested on UCI Heart Disease dataset)  
 - ✅ Fully responsive design for mobile and desktop  
 - ✅ Input validation and secure form handling  
 - ✅ Easily customizable for other medical ML projects
