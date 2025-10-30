@@ -45,6 +45,7 @@ You can test the app live on **Render** (if deployed).
 - [🎨 Frontend Details](#-frontend-details)
 - [🧪 How to Use](#-how-to-use)
 - [🚀 Deployment](#-deployment)
+- [🌐 Live Demo of Website](#-live-demo)
 - [📝 License](#-license)
 
 ---
@@ -68,7 +69,7 @@ Follow these steps to set up and run the project locally.
    git clone <your-repo-url>
    cd Heart\ Data
 ````
-
+````
 2. **Create and activate a virtual environment** (recommended)
 
    ```bash
@@ -95,6 +96,7 @@ Follow these steps to set up and run the project locally.
 ---
 
 ## 📂 Project Structure
+
 
 | File/Directory                  | Description                                                       |
 | :------------------------------ | :---------------------------------------------------------------- |
@@ -161,6 +163,11 @@ This project can be deployed easily using **Render**, **Heroku**, or **Railway**
 4. Render will automatically build and host your Flask app.
 
 ---
+## Live Demo of Website : 
+[https://heart-disease-prediction-4go2.onrender.com/]
+
+This is Live Demo Link of the Website
+(Note : As this is the deployed on the free tier of Render it can take about 2-3 minutes to open )
 
 ## 📝 License
 
