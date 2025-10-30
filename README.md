@@ -169,6 +169,8 @@ This project can be deployed easily using **Render**, **Heroku**, or **Railway**
 This is Live Demo Link of the Website
 (Note : As this is the deployed on the free tier of Render it can take about 2-3 minutes to open )
 
+---
+
 ## 📝 License
 
 This project is licensed under the **MIT License**.
@@ -179,6 +181,6 @@ See the [LICENSE](./LICENSE) file for more information.
 <div align="center">
   <sub>Made with ❤️ using Python, Flask, and XGBoost</sub>
 </div>
-```
+
 
 ---
