@@ -68,8 +68,8 @@ Follow these steps to set up and run the project locally.
    ```bash
    git clone <your-repo-url>
    cd Heart\ Data
-````
-````
+
+
 2. **Create and activate a virtual environment** (recommended)
 
    ```bash
